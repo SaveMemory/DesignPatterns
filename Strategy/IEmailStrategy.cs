@@ -1,4 +1,5 @@
-namespace DesignPatterns.Strategy
+
+namespace Strategy
 {
     public interface IEmailStrategy
     {

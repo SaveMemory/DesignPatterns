@@ -1,4 +1,4 @@
-namespace DesignPatterns
+namespace Strategy
 {
     public enum UserRole
     {

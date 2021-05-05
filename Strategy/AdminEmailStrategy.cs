@@ -1,7 +1,7 @@
 using System;
 using System.Data;
 
-namespace DesignPatterns.Strategy
+namespace Strategy
 {
     public class AdminEmailStrategy : IEmailStrategy
     {
