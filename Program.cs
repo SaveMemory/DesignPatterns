@@ -1,14 +1,13 @@
 ﻿using System;
-using System.Runtime.InteropServices.ComTypes;
-using Strategy.Strategy;
+using DesignPatterns.Strategy;
 
-namespace Strategy
+namespace DesignPatterns
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Strategy!");
+            Console.WriteLine("Hello DesignPatterns!");
             
             var user = new User()
             {

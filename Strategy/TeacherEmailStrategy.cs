@@ -1,7 +1,7 @@
 using System;
 using System.Data;
 
-namespace Strategy.Strategy
+namespace DesignPatterns.Strategy
 {
     public class TeacherEmailStrategy : IEmailStrategy
     {

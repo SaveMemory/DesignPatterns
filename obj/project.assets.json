@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/filip/Sources/Repos/Strategy/Strategy.csproj",
-      "projectName": "Strategy",
-      "projectPath": "/home/filip/Sources/Repos/Strategy/Strategy.csproj",
+      "projectUniqueName": "/home/filip/Sources/Repos/DesignPatterns/DesignPatterns.csproj",
+      "projectName": "DesignPatterns",
+      "projectPath": "/home/filip/Sources/Repos/DesignPatterns/DesignPatterns.csproj",
       "packagesPath": "/home/filip/.nuget/packages/",
-      "outputPath": "/home/filip/Sources/Repos/Strategy/obj/",
+      "outputPath": "/home/filip/Sources/Repos/DesignPatterns/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/filip/.nuget/NuGet/NuGet.Config"

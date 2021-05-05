@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O9/OiNF1EOqtJN3AUUrMS5OGYT7DhWuaydK+ofhhTzp4HNVLLToViFT+GF88nnkWhC1JOdh2b3lALxAtWDAOUQ==",
+  "dgSpecHash": "loJX/aCF3i7fcyu0Iri+7/ua0ra+tmum9a8ylHiXcxk5EFGRpr+nhcvAVrx972oFq5ayCIImanh37syBNvD3fQ==",
   "success": true,
-  "projectFilePath": "/home/filip/Sources/Repos/Strategy/Strategy.csproj",
+  "projectFilePath": "/home/filip/Sources/Repos/DesignPatterns/DesignPatterns.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

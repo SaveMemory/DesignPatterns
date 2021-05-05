@@ -1,0 +1,16 @@
+/home/filip/Sources/Repos/DesignPatterns/bin/Debug/net5.0/DesignPatterns
+/home/filip/Sources/Repos/DesignPatterns/bin/Debug/net5.0/DesignPatterns.deps.json
+/home/filip/Sources/Repos/DesignPatterns/bin/Debug/net5.0/DesignPatterns.runtimeconfig.json
+/home/filip/Sources/Repos/DesignPatterns/bin/Debug/net5.0/DesignPatterns.runtimeconfig.dev.json
+/home/filip/Sources/Repos/DesignPatterns/bin/Debug/net5.0/DesignPatterns.dll
+/home/filip/Sources/Repos/DesignPatterns/bin/Debug/net5.0/ref/DesignPatterns.dll
+/home/filip/Sources/Repos/DesignPatterns/bin/Debug/net5.0/DesignPatterns.pdb
+/home/filip/Sources/Repos/DesignPatterns/obj/Debug/net5.0/DesignPatterns.csprojAssemblyReference.cache
+/home/filip/Sources/Repos/DesignPatterns/obj/Debug/net5.0/DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+/home/filip/Sources/Repos/DesignPatterns/obj/Debug/net5.0/DesignPatterns.AssemblyInfoInputs.cache
+/home/filip/Sources/Repos/DesignPatterns/obj/Debug/net5.0/DesignPatterns.AssemblyInfo.cs
+/home/filip/Sources/Repos/DesignPatterns/obj/Debug/net5.0/DesignPatterns.csproj.CoreCompileInputs.cache
+/home/filip/Sources/Repos/DesignPatterns/obj/Debug/net5.0/DesignPatterns.dll
+/home/filip/Sources/Repos/DesignPatterns/obj/Debug/net5.0/ref/DesignPatterns.dll
+/home/filip/Sources/Repos/DesignPatterns/obj/Debug/net5.0/DesignPatterns.pdb
+/home/filip/Sources/Repos/DesignPatterns/obj/Debug/net5.0/DesignPatterns.genruntimeconfig.cache

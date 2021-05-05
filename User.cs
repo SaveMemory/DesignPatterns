@@ -1,8 +1,8 @@
 using System;
 using System.Data;
-using Strategy.Strategy;
+using DesignPatterns.Strategy;
 
-namespace Strategy
+namespace DesignPatterns
 {
     public class User
     {
